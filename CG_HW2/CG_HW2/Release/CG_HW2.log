@@ -1,0 +1,60 @@
+﻿生成启动时间为 2017/4/19 22:20:46。
+     1>项目“F:\D_360\CG\CG_HW2_framework\CG_HW2\CG_HW2\CG_HW2\CG_HW2.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         G:\PL\VS\VC\bin\CL.exe /c /IF:\D_360\CG\CG_HW2_framework\CG_HW2\CG_HW2\CG_HW2\\..\..\include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>main.cpp(276): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(288): warning C4305: “参数”: 从“double”到“float”截断
+     1>main.cpp(511): warning C4305: “+=”: 从“double”到“float”截断
+     1>main.cpp(515): warning C4305: “*=”: 从“double”到“float”截断
+     1>main.cpp(523): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(531): warning C4305: “+=”: 从“double”到“float”截断
+     1>main.cpp(560): warning C4305: “+=”: 从“double”到“float”截断
+     1>main.cpp(598): warning C4305: “+=”: 从“double”到“float”截断
+     1>main.cpp(602): warning C4305: “*=”: 从“double”到“float”截断
+     1>main.cpp(610): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(618): warning C4305: “+=”: 从“double”到“float”截断
+     1>main.cpp(647): warning C4305: “+=”: 从“double”到“float”截断
+     1>main.cpp(708): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(709): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(714): warning C4305: “*=”: 从“double”到“float”截断
+     1>main.cpp(718): warning C4305: “*=”: 从“double”到“float”截断
+     1>main.cpp(721): warning C4305: “*=”: 从“double”到“float”截断
+     1>main.cpp(724): warning C4305: “*=”: 从“double”到“float”截断
+     1>main.cpp(727): warning C4305: “=”: 从“double”到“float”截断
+     1>main.cpp(729): warning C4305: “=”: 从“double”到“float”截断
+     1>main.cpp(733): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(734): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(753): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(754): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(784): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(785): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(821): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(822): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(823): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(824): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(828): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(829): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(830): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(831): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(847): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(848): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(849): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(850): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(854): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(855): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(856): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(857): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+       Link:
+         G:\PL\VS\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\D_360\CG\CG_HW2_framework\CG_HW2\CG_HW2\Release\CG_HW2.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:F:\D_360\CG\CG_HW2_framework\CG_HW2\CG_HW2\CG_HW2\\..\..\lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\D_360\CG\CG_HW2_framework\CG_HW2\CG_HW2\Release\CG_HW2.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\D_360\CG\CG_HW2_framework\CG_HW2\CG_HW2\Release\CG_HW2.lib" /MACHINE:X86 /SAFESEH Release\glm.obj
+         Release\main.obj
+         Release\Matrices.obj
+         Release\textfile.obj
+         正在生成代码
+         已完成代码的生成
+         CG_HW2.vcxproj -> F:\D_360\CG\CG_HW2_framework\CG_HW2\CG_HW2\Release\CG_HW2.exe
+     1>已完成生成项目“F:\D_360\CG\CG_HW2_framework\CG_HW2\CG_HW2\CG_HW2\CG_HW2.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.10
